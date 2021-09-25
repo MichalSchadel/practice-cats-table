@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Jeko-Regular";
+    src: url(../fonts/FontsFree-Net-Jeko-Regular.ttf);
+
+}
+
+
+@font-face {
+    font-family: "Jeko-Variable";
+    src: url(../fonts/FontsFree-Net-Jeko-Variable.ttf);
+}
+
+
+h1 {
+    font-family: "Jeko-Regular";
+}
+
+table {
+    font-family: "Jeko-Regular";
+}
